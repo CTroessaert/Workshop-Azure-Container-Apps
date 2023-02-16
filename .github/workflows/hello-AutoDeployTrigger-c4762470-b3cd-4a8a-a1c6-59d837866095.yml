@@ -7,7 +7,7 @@ on:
     branches: 
       [ main ]
     paths:
-    - 'Lab6/App/**'
+    - 'Lab_6/App/**'
     - '.github/workflows/hello-AutoDeployTrigger-c4762470-b3cd-4a8a-a1c6-59d837866095.yml'
 
   # Allow mannually trigger 
